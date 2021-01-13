@@ -1,4 +1,5 @@
-> Computer Scientist  
+> Computer Scientist.  
+> Microsoft Learn Student Ambassador.  
 > Facultad de Ciencias @ UNAM.  
 > CDMX, Mexico.  
 > [https://jpyamamoto.com/](https://jpyamamoto.com/)
