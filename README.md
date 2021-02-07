@@ -24,6 +24,9 @@
 #### Image Analysis
 - [Cloud Coverage Index](https://github.com/JPYamamoto/cloud_coverage_image_analysis): Python, OpenCV, Numpy.
 
+### Cryptography
+- [Shamir's Secret Sharing Scheme](https://github.com/JPYamamoto/secret_sharing_shamir/): Python, pycrypto.
+
 #### Data Structures and Algorithms
 - [Sudoku Solver](https://github.com/JPYamamoto/sudoku_solver): C, Backtracking.
 - [Data Structures Course](https://github.com/JPYamamoto/edd_2020-2): Java, OOP.
