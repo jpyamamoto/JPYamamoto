@@ -19,6 +19,7 @@
 - [Ultrasonic Tardis](https://github.com/JPYamamoto/ultrasonic_tardis): Python, Pygame, Raspberry Pi.
 - [Game of Life](https://github.com/JPYamamoto/KivyPython-GameOfLife): Python, Kivi Framework.
 - [Game of Life](https://github.com/JPYamamoto/PhoenixLiveView-GameOfLife): Elixir, Phoenix LiveView.
+- [Game of Life](https://github.com/JPYamamoto/game_of_life_cpp): C++, SDL2.
 
 #### Image Analysis
 - [Cloud Coverage Index](https://github.com/JPYamamoto/cloud_coverage_image_analysis): Python, OpenCV, Numpy.
