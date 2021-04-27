@@ -1,5 +1,6 @@
 > Computer Scientist.  
 > Microsoft Learn Student Ambassador.  
+> GitHub Campus Expert in training.  
 > Facultad de Ciencias @ UNAM.  
 > CDMX, Mexico.  
 > [https://jpyamamoto.com/](https://jpyamamoto.com/)
@@ -13,6 +14,28 @@
 - C / C++.
 - GNU/Linux.
 - LaTeX.
+
+## Talks
+- Git & GitHub: Zero to Hero.
+- [The Lazy Programmer's Guide to Bulletproof Code](https://jpyamamoto.com/posts/2021/04/lazy-programmer-guide-bulletproof-code/)
+
+### Communities
+### λ Club
+![λ Club Logo](./resources/lambdaclub.png)
+- Co-founder
+- λ Club is a community, that aims to connect students with the industry while creating a space to share the knowledge and grow our technical and soft skills.
+- Currently operating online ([Join our Discord server!](https://discord.gg/FsDtbxgECX)), eventually across several locations in CDMX.
+
+#### Microsoft Learn Student Ambassador
+![MLSA Logo](./resources/mlsa.png)
+- Currently in the Beta Milestone.
+- Organizer in:
+  - [HackLatam 2021](https://www.facebook.com/hacklatamMLSA)
+  - [UANL IT Summit](https://www.uanl.mx/eventos/it-summit/)
+
+### GitHub Campus Expert
+![GHCE Logo](./resources/ghce.png)
+- Currently in training.
 
 ### Projects
 #### Computer Graphics
