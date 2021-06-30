@@ -1,6 +1,7 @@
 > Computer Scientist.  
+> GitHub Campus Expert.  
 > Microsoft Learn Student Ambassador.  
-> GitHub Campus Expert in training.  
+> λ Club Community Leader.  
 > Facultad de Ciencias @ UNAM.  
 > CDMX, Mexico.  
 > [https://jpyamamoto.com/](https://jpyamamoto.com/)
@@ -35,7 +36,6 @@
 
 ### GitHub Campus Expert
 ![GHCE Logo](./resources/ghce.png)
-- Currently in training.
 
 ### Projects
 #### Computer Graphics
