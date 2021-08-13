@@ -15,6 +15,8 @@ I'm always up for meeting people, so if you're in any of the following situation
 - You love technology and science.
 - You're interested in being part of a tech community.
 - You think I can help you with something.
+- You want to offer me an internship.
+- You would like to invite me to attend to/speak at an event.
 - You suspect I might be an interesting guy to chat with.
 
 feel free to reach out to me on my [socials](https://github.com/JPYamamoto#connect-with-me).
@@ -87,5 +89,5 @@ feel free to reach out to me on my [socials](https://github.com/JPYamamoto#conne
 <a href="https://twitter.com/si_compila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="si_compila" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jpyamamoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpyamamoto" height="30" width="40" /></a>
 <a href="https://instagram.com/no.compila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="no.compila" height="30" width="40" /></a>
-<a href="/https://jpyamamoto.com/posts/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jpyamamoto.com/posts/index.xml" height="30" width="40" /></a>
+<a href="https://jpyamamoto.com/posts/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jpyamamoto.com/posts/index.xml" height="30" width="40" /></a>
 </p>
