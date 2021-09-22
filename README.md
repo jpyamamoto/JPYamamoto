@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋!</h1>
 
-> Computer Scientist.  
+> Computer Scientist & Mathematician.  
 > GitHub Campus Expert.  
 > Microsoft Learn Student Ambassador.  
 > λ Club Community Leader.  
@@ -9,7 +9,7 @@
 > [https://jpyamamoto.com/](https://jpyamamoto.com/)
 
 Hello there, I'm Juan Pablo Yamamoto.
-I am a Computer Science student (and aspiring mathematician) with a particular interest in logic and functional programming.
+I am a Computer Science student and Mathematics student, with a particular interest in logic and functional programming.
 
 I'm always up for meeting people, so if you're in any of the following situations:
 - You love technology and science.
